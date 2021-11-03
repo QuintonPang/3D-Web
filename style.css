@@ -62,7 +62,7 @@ canvas {
   blockquote {
     margin: 0;
     padding: 0;
-    grid-column: 2 / span 9; /* start from column no.2 and span across 9 columns */
+    grid-column: 2 / span 9; /* start from column no.2 and take up 9 columns */
     margin-bottom: var(--spacing);
   }
 
